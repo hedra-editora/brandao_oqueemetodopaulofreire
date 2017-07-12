@@ -10,7 +10,7 @@ inclusive conversado o começo do fio da ideia dele com Paulo Freire,
 acabei viajando para o Nordeste. Uma coisa não tinha nada a ver com a
 outra, mas acabou tendo.
 
-Comecei a rascunhar o livro num caderno, no dia 1º de maio deste ano 1,
+Comecei a rascunhar o livro num caderno, no dia 1º de maio deste ano[^footnote1],
 em Campinas. Depois, no mesmo dia, a caminho de São Paulo e, daí, no
 de Fortaleza, Ceará. No dia seguinte eu segui com a viagem e o
 rascunho do livro, de Fortaleza a Mossoró, que fica num canto do
@@ -18,6 +18,8 @@ sertão do Rio Grande do Norte. O rascunho da primeira parte do livro
 foi acabado na viagem de volta do Nordeste ao Sul, cinco dias depois.
 Eu voltava de um curso na cidade de Mossoró sobre as ideias e o método
 de Paulo Freire. Coisa que contando não se acredita. Mas eu conto.
+
+[^footnote1]: “deste ano” refere-se ao ano em que o livro foi escrito, 1981.
 
 Mossoró fica perto de Angicos, uma cidadezinha nos fundos do Nordeste,
 onde neste ano o sol seca e resseca tudo o que há. Foi ali onde, pela
@@ -32,8 +34,6 @@ Homem. Uma nova crença, também, no valor e no poder da Educação.
 Sinais do amor que o homem planta e que brotavam ali, no chão seco do
 sertão, há vinte anos.
 
-1 “deste ano” refere-se ao ano em que o livro foi escrito, 1981.
-
 Pois vinte anos depois um punhado de gente se reuniu em Mossoró pra
 repensar junta, para trás, como é que aquilo foi. Pra pensar junta,
 para frente, como é que agora poderia ser. Foi programada uma “Semana
@@ -43,20 +43,19 @@ Veio até alguma gente do Sul. A ideia era a de fazer a crítica de todo
 o trabalho anterior de *Educação Popular e de Cultura Popular*
 desencadeado no Brasil no começo dos anos 1960. Fazer a crítica para
 repensar uma coisa e a outra, para “reinventar a educação” hoje, para
-os dias de hoje 2, como o próprio Paulo Freire gosta de dizer. As
+os dias de hoje[^footnote2], como o próprio Paulo Freire gosta de dizer. As
 pessoas da minha geração, os que viveram nos começos de 1960 o
 alvorecer da ideia, queriam a memória dela. Recontar juntos,
 perguntar: “como é que foi?”. Mas os jovens, os estudantes de colégio
 e das universidades que se amontoaram por lá, queriam é saber: “como
 é que faz?”.
 
+[^footnote2]: “hoje” refere-se ao período em que o livro foi escrito, ou seja, anos 1980.
+
 Por isso o “Programa da Semana” tinha de tudo, de reuniões e
 mesas-redondas de revisão das experiências do passado, a sessões de
 discussão dos trabalhos atuais e dos sonhos possíveis de trabalho
 futuro com a Educação Popular: um nome? Um mito? Um modo de fazer?
-
-2 “hoje” refere-se ao período em que o livro foi escrito, ou seja,
-anos 1980.
 
 Crispiniano Neto, um professor e repentista notável do lugar, escreveu
 o “Programa da Semana” em cordel e abriu cantoria desse jeito:
@@ -1382,7 +1381,7 @@ descobre, com o próprio trabalho, que é bom, que amplia o diálogo,
 que favorece uma leitura crítica da realidade social e uma leitura
 correta da língua, que é parte desta realidade.
 
-Há cerca de 20 anos 3 atrás os primeiros testes com o método produziram
+Há cerca de 20 anos[^footnote3] atrás, os primeiros testes com o método produziram
 resultados surpreendentes. Dava para alfabetizar (a nível elementar,
 entenda-se bem) em 40 horas uma turma de adultos dos fundos do
 Nordeste. Às vezes dava pra fazer todo o trabalho em até 36 horas. Mas
@@ -1394,7 +1393,7 @@ uma turma de jovens e adultos lavradores, descobriram que o grupo
 arrumou assunto para discutir *Benedito* durante 5 reuniões e, no 4º
 mês, o grupo estava ainda na 8a palavra geradora.
 
-3 Refere-se aos anos 1960.
+[^footnote3]: Refere-se aos anos 1960.
 
 Quero falar aqui de alguns exemplos de uso do método para dizer,
 mais com eles do que com minhas ideias, como um trabalho pedagógico de
@@ -1489,7 +1488,15 @@ moldes de *pesquisa participante*. Esta era uma modalidade de
 trabalho coparticipado de descoberta que Paulo Freire e o pessoal do
 IDAC haviam desenvolvido na Europa e que, ali mesmo em Goiás, havia
 sido realizada em uma pesquisa anterior sobre condições atuais e
-direitos do povo à saúde 4.
+direitos do povo à saúde.[^footnote4]
+
+[^footnote4]: Sugiro ao leitor que leia *A Pesquisa Participante*, que esta mesma
+editora lançou em 1981. Ali estão reunidos estudos e experiências de
+trabalhos de pesquisa com a participação do povo. Há um estudo
+escrito pela equipe do IDAC, outro que reproduz uma conferência de
+Paulo Freire sobre o assunto, na África. Há também a reprodução do
+texto completo da pesquisa de Goiás, *O Meio Grito*.
+
 
 Havia pressa em começar logo o trabalho do círculo de cultura, antes
 das chuvas, se possível. Para a primeira turma a ideia foi a de os
@@ -1501,13 +1508,7 @@ emoção), num canto de prateleira do Centro de Treinamento da Diocese
 de Goiás, Livre da poeira do tempo, ele emergiu para o trabalho do
 grupo.
 
-4 Sugiro ao leitor que leia *A Pesquisa Participante*, que esta mesma
-editora lançou em 1981. Ali estão reunidos estudos e experiências de
-trabalhos de pesquisa com a participação do povo. Há um estudo
-escrito pela equipe do IDAC, outro que reproduz uma conferência de
-Paulo Freire sobre o assunto, na África. Há também a reprodução do
-texto completo da pesquisa de Goiás, *O Meio Grito*.
-
+ 
 As palavras geradoras, 16 anos depois, pareciam haver saído da própria
 comunidade. Antes elas foram discutidas com algumas pessoas do lugar,
 para que juntos resolvessem se podiam ser deles também.
@@ -1536,11 +1537,14 @@ de Santa Fé.
 
 Estes são os assuntos de debate entre os educandos. Como ali são
 muitos os artistas de viola e voz, não é raro que se comece um círculo
-cantando uma das muitas canções “dos lavradores de Goiás”5 que
+cantando uma das muitas canções “dos lavradores de Goiás”[^footnote5] que
 correm de boca em boca; de silêncio em silêncio de espanto em espanto
 da consciência. O que é que precisa aprender sobre a realidade, uma
 gente que dá lições dela, como em *Espelho da Realidade*, uma moda de
 viola de um lavrador de perto?
+
+[^footnote5]: Ver *Canto dos Lavradores de Goiás*, folheto e fita cassete
+publicados pelo Centro de Reflexão e Documentação, de Goiânia.
 
 Os patrão que tem fazenda 
 O pobre do lavrador Pros pião já tem
@@ -1555,9 +1559,6 @@ máquinas é tudo cara Serviço ele não acha Adubo é um preço danado Não
 pode ficá parado Na lavoura eu ponho capim O nome dele acaba
 
 Vou forma pasto pro gado!’ Ele fica desmoralizado.
-
-5 Ver *Canto dos Lavradores de Goiás*, folheto e fita cassete
-publicados pelo Centro de Reflexão e Documentação, de Goiânia.
 
 Imagina a sua vida O cabroco adoece Deste jeito aqui não dá Não tem
 jeito de tratá Lá em casa não tem nada Panha folha e raiz Não tem
