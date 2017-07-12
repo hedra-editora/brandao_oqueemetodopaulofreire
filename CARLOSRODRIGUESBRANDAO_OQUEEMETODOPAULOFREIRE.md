@@ -10,7 +10,7 @@ inclusive conversado o começo do fio da ideia dele com Paulo Freire,
 acabei viajando para o Nordeste. Uma coisa não tinha nada a ver com a
 outra, mas acabou tendo.
 
-Comecei a rascunhar o livro num caderno, no dia 1º de maio deste ano1,
+Comecei a rascunhar o livro num caderno, no dia 1º de maio deste ano 1,
 em Campinas. Depois, no mesmo dia, a caminho de São Paulo e, daí, no
 de Fortaleza, Ceará. No dia seguinte eu segui com a viagem e o
 rascunho do livro, de Fortaleza a Mossoró, que fica num canto do
@@ -43,7 +43,7 @@ Veio até alguma gente do Sul. A ideia era a de fazer a crítica de todo
 o trabalho anterior de *Educação Popular e de Cultura Popular*
 desencadeado no Brasil no começo dos anos 1960. Fazer a crítica para
 repensar uma coisa e a outra, para “reinventar a educação” hoje, para
-os dias de hoje2, como o próprio Paulo Freire gosta de dizer. As
+os dias de hoje 2, como o próprio Paulo Freire gosta de dizer. As
 pessoas da minha geração, os que viveram nos começos de 1960 o
 alvorecer da ideia, queriam a memória dela. Recontar juntos,
 perguntar: “como é que foi?”. Mas os jovens, os estudantes de colégio
@@ -80,7 +80,7 @@ Porém a Filosofia
 Que aqui estamos falando 
 
 Não é daqueles que não
-têm: *por qué*, *pra quê* nem quando; 
+têm: *por quê*, *pra quê* nem quando; 
 
 É uma coisa real,
 
@@ -316,7 +316,7 @@ Estados Unidos e, depois, para a Europa. Em Genebra ele cria, com
 outros companheiros de exílio, o Instituto de Ação Cultural (IDAC).
 A nova equipe viaja vezes seguidas para diversos países da África
 onde, depois da libertação política — como aconteceu nas antigas
-colônias de Portugal —, lutase por todas as outras liberdades,
+colônias de Portugal —, luta-se por todas as outras liberdades,
 inclusive por aquela que se obtém de *aprender a saber*. Por toda a
 parte há sinais de sua passagem e, quanto mais o poder do pensamento
 oficial procura fazer com que se esqueça do seu nome aqui no Brasil,
@@ -345,8 +345,7 @@ Um dos pressupostos do método é a ideia de que ninguém educa ninguém
 e ninguém se educa sozinho. A educação, que deve ser um ato
 coletivo, solidário — um ato de amor, dá pra pensar sem susto —, não
 pode ser imposta. Porque educar é uma tarefa de trocas entre pessoas
-e, se não pode ser nunca feita por um sujeito isolado (até a au-
-toeducação é um diálogo à distância), não pode ser também o
+e, se não pode ser nunca feita por um sujeito isolado (até a autoeducação é um diálogo à distância), não pode ser também o
 resultado do despejo de quem supõe que possui todo o saber, sobre
 aquele que, do outro lado, foi obrigado a pensar que não possui
 nenhum. “Não há educadores puros”, pensou Paulo Freire. “Nem
@@ -422,13 +421,12 @@ lugar, que deve ser: investigado, pesquisado, levantado, descoberto.
 E como é que esse primeiro passo de descoberta é feito? Caderno de
 campo na mão, olhos e ouvidos atentos, se possível (se adequado)
 gravador em punho. As pessoas do “programa de educação” misturam-se
-com as “da comunidade”. Se for viável, habitam — sem molestá-lo —o
+com as “da comunidade”. Se for viável, habitam — sem molestá-lo — o
 seu cotidiano. Não há questionários nem roteiros predeterminados
 para a pesquisa. Se houvesse, eles seriam como uma cartilha. Trariam
 pronto o ponto de vista dos pesquisadores. Há perguntas sobre a
 vida, sobre casos acontecidos, sobre o trabalho, sobre modos de ver
-e compreender o mundo. Perguntas que emergem de uma vivência que co-
-meça a acontecer ali.
+e compreender o mundo. Perguntas que emergem de uma vivência que começa a acontecer ali.
 
 Sobre este primeiro momento de trabalho, Aurenice Cardoso escreveu o
 seguinte, há cerca de 20 anos:
@@ -508,8 +506,7 @@ temático é surpreender a maneira como uma realidade social existe na
 vida e no pensamento, no imaginário dos seus participantes. A
 pesquisa deve ser um ato criativo e não um ato de consumo. A
 descoberta coletiva da vida através da fala; do mundo através da
-palavra não deve servir apenas para que os educadores obtenham um pri-
-meiro conjunto de material de alfabetização: palavras, frases,
+palavra não deve servir apenas para que os educadores obtenham um primeiro conjunto de material de alfabetização: palavras, frases,
 dados, desenhos, fotos. Deve servir também para criar um momento comum
 de descoberta. Tal como o próprio Paulo Freire desenvolveu depois em
 suas ideias sobre pesquisa participante, comum significa, aqui,
@@ -691,8 +688,7 @@ Quando a proposta de trabalho com o método é mais ampla, esta etapa de
 geradores*. Isto pode acontecer quando, mesmo na etapa de
 alfabetização, há um interesse em provocar debates mais a fundo
 sobre as questões que as palavras geradoras apenas sugerem. Acontece
-também, com mais frequência, quando a etapa de alfabetização é pro-
-longada na de pós-alfabetização, para que os alunos dos grupos de
+também, com mais frequência, quando a etapa de alfabetização é prolongada na de pós-alfabetização, para que os alunos dos grupos de
 cultura atinjam plenamente aquilo que os educadores chamam de
 *alfabetização funcional*: um domínio das habilidades de leitura,
 escrita e cálculo mais operativo do que o que a simples alfabetização
@@ -726,8 +722,7 @@ fala. As falas, as conversas, as frases, entrevistas, discussões
 dentro ou fora do círculo, tudo está carregado dos temas da
 comunidade: seus assuntos, sua vida. A vida da família em casa, no
 quintal, na lavoura; as alegrias, a devoção e o trabalho ritual das
-festas “do santo do lugar”; a luta coletiva contra a ameaça da ex-
-pulsão das terras de trabalho do lavrador; as questões dos grupos
+festas “do santo do lugar”; a luta coletiva contra a ameaça da expulsão das terras de trabalho do lavrador; as questões dos grupos
 populares organizados — grupos de jovens, de mulheres, de igrejas,
 de trabalho político; as questões do relacionamento das pessoas com
 a natureza, as tradições da cultura e as mudanças de tudo; as relações
@@ -803,8 +798,7 @@ descoberta do *universo vocabular* e/ou (hoje em dia mais *e* do que
 *ou*) do *universo temático*;
 
 3º) todo o material da pesquisa feita dentro e fora da comunidade (mas
-sempre sobre ela e a partir dela) foi reunido, organizado, discu-
-tido, inclusive com a gente do lugar;
+sempre sobre ela e a partir dela) foi reunido, organizado, discutido, inclusive com a gente do lugar;
 
 4º) o instrumental do trabalho de alfabetização foi *codificado*,
 transformado em *símbolos de uso* no círculo de cultura: palavras
@@ -828,9 +822,7 @@ As fichas de cultura são desenhos feitos em cartazes ou projetados em
 *slides*. Uma após a outra, elas provocam os primeiros debates, as
 primeiras trocas de ideias entre o animador e os educandos, ou entre
 os educandos. Em conjunto
-elas introduzem ideias de base que, partindo de *situações exis-
-tenciais*, possibilitam a apreensão coletiva do conceito de *cul-
-tura* e conduzem a outros conceitos fundamentais que muitas vezes
+elas introduzem ideias de base que, partindo de *situações existenciais*, possibilitam a apreensão coletiva do conceito de *cultura* e conduzem a outros conceitos fundamentais que muitas vezes
 reaparecerão e serão rediscutidos durante todo o trabalho de
 alfabetização: “trabalho”, “diálogo”, “mundo”, “natureza”, “homem”,
 “sociedade”.
@@ -951,8 +943,7 @@ fundamental”, que caracteriza o processo brasileiro.
 
 A “democratização da cultura”, disse certa vez um desses anônimos
 mestres analfabetos, “tem de partir do que somos e do que fazemos como
-povo. Não do que pensem e queiram alguns de nós”. Além desses deba-
-tes a propósito da cultura e de sua democratização, analisava-se o
+povo. Não do que pensem e queiram alguns de nós”. Além desses debates a propósito da cultura e de sua democratização, analisava-se o
 funcionamento de um círculo de cultura, seu sentido dinâmico, a força
 criadora do diálogo, o aclaramento das consciências. Em duas noites
 são discutidas estas situações, motivando-se intensamente os homens
@@ -961,7 +952,7 @@ que é vista, agora, como uma chave para abrir a eles a comunicação
 escrita.
 
 IMAGENS
-*Exemplos de fichas de cultura (n*os *3 e 6).*
+*Exemplos de fichas de cultura (nos. *3 e 6).*
 
 IMAGEM
 *Situação existencial provocadora.*
@@ -981,8 +972,7 @@ uma força de transformação do mundo. Só assim a alfabetização tem
 sentido. Na medida em que o homem, embora analfabeto, descobrindo a
 relatividade da ignorância e da sabedoria, retira um dos fundamentos
 para a sua manipulação pelas falsas elites. Só assim a alfabetização
-tem sentido. Na medida em que, implicando em todo este esforço de re-
-flexão do homem sobre si mesmo e sobre o mundo em que e com que está,
+tem sentido. Na medida em que, implicando em todo este esforço de reflexão do homem sobre si mesmo e sobre o mundo em que e com que está,
 o faz descobrir que o mundo é seu também, que o seu trabalho não é a
 pena que paga por ser homem, mas um modo de amar — e ajudar o
 mundo a ser melhor (*Educação como Prática da Liberdade*).
@@ -1052,8 +1042,7 @@ debate a respeito do que é visto. Nas primeiras experiências do
 Nordeste, para que o próprio animador tivesse em mãos um roteiro que
 o ajudasse a encaminhar os trabalhos de cada palavra, foi costume
 elaborar uma espécie de “plano de palavra” para cada uma. Assim, em
-1961 em Mossoró e Angicos, era este o encami-
-nhamento da palavra geradora: *salário*.
+1961 em Mossoró e Angicos, era este o encaminhamento da palavra geradora: *salário*.
 
 Palavra geradora: *salário*
 
@@ -1312,8 +1301,7 @@ IMAGEM
 
 Palavras mais difíceis podem ser apresentadas mais tarde. Em Goiás
 primeiro vinham: *Benedito, Jovelina, mata, fogo, sapato, casa*. Todas
-elas são palavras simples, com os fonemas em ordem direta — consoante
-+ vogal — e sem dificuldades maiores de construção. Depois vinham:
+elas são palavras simples, com os fonemas em ordem direta — consoante + vogal — e sem dificuldades maiores de construção. Depois vinham:
 *enxada, chuva* (x e ch), *roçado* (o terrível ç), *bicicleta,
 trabalho* (tr e lh), *bezerro* (z, s, ss, ç — que língua desgraçada!)
 *safra* (fr), *máquina* (qui, que), *armazém, assinatura, produção,
@@ -1322,8 +1310,7 @@ farinha* (nh), *estrada* (tr).
 As dificuldades são apresentadas, discutidas. Sobre elas o monitor
 deverá trabalhar mais tempo deixando, no entanto, que as dificuldades
 maiores apareçam quando o grupo estiver pronto para enfrentá-las por
-sua conta. Exemplo, para a palavra geradora casa a ficha de desco-
-berta foi escrita assim:
+sua conta. Exemplo, para a palavra geradora casa a ficha de descoberta foi escrita assim:
 
 **ca _ _   _ _ co cu**
 
@@ -1395,7 +1382,7 @@ descobre, com o próprio trabalho, que é bom, que amplia o diálogo,
 que favorece uma leitura crítica da realidade social e uma leitura
 correta da língua, que é parte desta realidade.
 
-Há cerca de 20 anos3 atrás os primeiros testes com o método produziram
+Há cerca de 20 anos 3 atrás os primeiros testes com o método produziram
 resultados surpreendentes. Dava para alfabetizar (a nível elementar,
 entenda-se bem) em 40 horas uma turma de adultos dos fundos do
 Nordeste. Às vezes dava pra fazer todo o trabalho em até 36 horas. Mas
@@ -1502,7 +1489,7 @@ moldes de *pesquisa participante*. Esta era uma modalidade de
 trabalho coparticipado de descoberta que Paulo Freire e o pessoal do
 IDAC haviam desenvolvido na Europa e que, ali mesmo em Goiás, havia
 sido realizada em uma pesquisa anterior sobre condições atuais e
-direitos do povo à saúde4.
+direitos do povo à saúde 4.
 
 Havia pressa em começar logo o trabalho do círculo de cultura, antes
 das chuvas, se possível. Para a primeira turma a ideia foi a de os
@@ -1632,8 +1619,7 @@ Alfabetização de Funcionários da*
 proposta de seu trabalho pedagógico. Durante cerca de 3 meses foi
 feito um programa de preparação de alfabetizadores — professores e
 alunos. A formação da equipe não foi pensada em momento algum como uma
-atividade técnica: dominar os princípios de um método de al-
-fabetização. Isto foi apenas parte de uma reflexão coletiva sobre o
+atividade técnica: dominar os princípios de um método de alfabetização. Isto foi apenas parte de uma reflexão coletiva sobre o
 próprio sentido do trabalho a ser desenvolvido e sobre os princípios
 que deveriam nortear a prática pedagógica junto aos
 funcionários-educandos.
@@ -1668,8 +1654,7 @@ Leitura 1*, construído a partir de escritos dos alunos das primeiras
 turmas, dentro do próprio processo de aprender a *ler e escrever*.
 Outra, a elaboração de um *Livro de Leitura 2*, que aproveita material
 dos alunos de maior rendimento, sobre cinco temas de discussão
-escolhidos. Ele será o documento básico dos trabalhos de pós-alfabeti-
-zação. Outra, ainda, a elaboração de um *Jornal dos Trabalhadores*,
+escolhidos. Ele será o documento básico dos trabalhos de pós-alfabetização. Outra, ainda, a elaboração de um *Jornal dos Trabalhadores*,
 feito sob a iniciativa de educandos dos grupos e com a ajuda dos
 educadores. Tal como ocorreu outras vezes, a discussão que deu
 origem à ideia e, dela, à realização do jornal, aconteceu quando o
@@ -1681,8 +1666,7 @@ exercício de aperfeiçoamento de *leitura, escrita e cálculo* sai da
 discussão dos temas geradores. Para os alunos que apresentam ainda
 dificuldades de trabalho com a palavra, foram formados grupos de
 revisão que aprofundam o estudo coletivo com o *Livro de Leitura 1.*
-Para os alunos que completam bem a primeira etapa, a de pós-al-
-fabetização aparece como uma sequencia natural de trabalho de
+Para os alunos que completam bem a primeira etapa, a de pós-alfabetização aparece como uma sequencia natural de trabalho de
 equipe. Nesta etapa os educandos trabalham com a análise de textos
 simples, que implicam tanto a leitura da realidade que o conteúdo
 pragmático sugere, quanto a leitura das dificuldades da língua, que a
@@ -1708,8 +1692,7 @@ height="0.37385389326334206in"}
 
 Faz muitos anos, em outro pequeno estudo sobre Paulo Freire, escrevi
 algumas ideias que quero reanimar aqui. “O método de alfabetização de
-adultos do profes-
-sor Paulo Freire não representa mais do que a fase inicial de um
+adultos do professor Paulo Freire não representa mais do que a fase inicial de um
 longo processo dentro de um Sistema de Educação. Este sistema foi
 elaborado levando em conta as seguintes etapas:
 a)  o método de alfabetização de adultos como processo acelerador da
@@ -1724,8 +1707,7 @@ estadual e nacional.
 a)  um processo sistematizado de educação correspondente ao nível
 primário, com o qual se obtém a funcionalidade na leitura e na
 escrita; um nível mais profundo no que respeita à conscientização e
-uma ampliação do campo de estudos com a introdução de outros ele-
-mentos necessários à educação de adultos.
+uma ampliação do campo de estudos com a introdução de outros elementos necessários à educação de adultos.
 
 A equipe de técnicos do SEC realizou investigações vocabulares e de
 interesses, a fim de elaborar o material didático para os adultos que
@@ -1753,8 +1735,7 @@ assumiriam a tarefa de oferecer serviços culturais em vários níveis:
 popular, secundário, pré-universitário e universitário, através do
 que os adultos teriam a oportunidade de realizar não um curso de
 emergência, mas um processo contínuo e tão completo quanto fosse
-possível de Educação Fundamental” (*El Metodo Paulo Freire para la
-Alfabetización de Adultos*).
+possível de Educação Fundamental” (*El Metodo Paulo Freire para la Alfabetización de Adultos*).
 
 Na cabeça dos seus primeiros idealizadores, o *método de alfabetização
 de adultos* era a menor parte de um *sistema de educação*, do mesmo
@@ -1811,9 +1792,7 @@ de participar do trabalho de libertação *também* através do ensino,
 da educação.
 
 Em uma das cartas que Paulo Freire escreveu para animadores de
-círculos de cultura das ilhas de São Tomé e
-
-Príncipe, na África, estas ideias estão muito claras. Observe,
+círculos de cultura das ilhas de São Tomé e Príncipe, na África, estas ideias estão muito claras. Observe,
 leitor, como uma proposta de educação do povo afinal aparece querendo
 falar em seu nome, a partir dele, do seu lugar na sociedade e na
 história.
@@ -1921,15 +1900,13 @@ no Brasil, setores de vanguarda da Igreja Católica foram, nas suas
 dioceses, paróquias, comunidades de base, alguns dos espaços mais
 estáveis e comprometidos de trabalho de mobilização e apoio dos mesmos
 grupos e comunidades populares com quem, alguns anos antes, estiveram
-trabalhando os educa-
-dores dos movimentos de cultura popular.
+trabalhando os educadores dos movimentos de cultura popular.
 
 Assim, nos últimos anos, a própria Igreja, que sempre teve uma antiga
 experiência de “ensino do povo”, abandonou em certos setores o
 trabalho pedagógico através de pequenos cursos (alfabetização, corte e
 costura, formação de lideranças) e procurou criar novas práticas de
-diálogo mais ágil e politicamente mais direto com os grupos po-
-pulares e suas comunidades. Isto aconteceu no campo e na periferia das
+diálogo mais ágil e politicamente mais direto com os grupos populares e suas comunidades. Isto aconteceu no campo e na periferia das
 cidades. Iniciativas de “escolarização popular”
 alternativa (fora do controle direto do poder de Estado) foram
 deixadas em segundo plano, durante alguns anos.
@@ -1951,8 +1928,7 @@ creche, por educação. Ao longo dos últimos anos, não são só algumas
 comunidades populares trabalhadas pela prática pastoral da Igreja,
 ou pela iniciativa de grupos, equipes ou partidos de intelectuais de
 dentro e de fora das universidades, as que aos poucos aprendem a
-reencontrar os seus recursos e as suas práticas de mobilização comu-
-nitária, de resistência e luta popular. Na verdade são as próprias
+reencontrar os seus recursos e as suas práticas de mobilização comunitária, de resistência e luta popular. Na verdade são as próprias
 classes populares que reinventam a dimensão de seu trabalho político.
 
 ![](media/image11.png){width="3.455615704286964in"
@@ -2064,8 +2040,7 @@ do estudantado, de grupos autônomos de profissionais, das igrejas. Aos
 poucos surgem pequenos trabalhos ancorados entre um grupo reduzido de
 educadores populares e as comunidades onde se colocam para
 trabalhar. Comunidades, grupos e movimentos populares propõem como
-iniciativa própria, ou aceitam, desde que possam incorporá-los no do-
-mínio de suas práticas, programas de alfabetização como parte de um
+iniciativa própria, ou aceitam, desde que possam incorporá-los no domínio de suas práticas, programas de alfabetização como parte de um
 trabalho muito mais amplo de educação popular.
 
 Entre os educadores que aceitam como seus os projetos dos movimentos
@@ -2118,7 +2093,7 @@ atividade sequer de alfabetização de adultos, por exemplo.
 
 Quando a um dado momento algumas comunidades reconhecem a necessidade
 de ampliar seu espaço de estudo e pensam em alfabetização, em
-pós-alfabétização, em cursos de supletivo, elas convocam os mesmos
+pós-alfabetização, em cursos de supletivo, elas convocam os mesmos
 agentes para que as ajudem: promovendo cursos, círculos de estudo, ou
 assessorando pessoas da própria comunidade a fazê-lo. Aqui e ali, de
 alguns “patrimônios” ou de “pontas de rua” surgem ideias sobre o
@@ -2144,8 +2119,7 @@ memória do que foi feito um dia. Servem como indicadores de caminhos.
 De forma semelhante, em São Paulo, em São Carlos, em Campinas, Paulo
 Freire participa de novas experiências de alfabetização popular.
 Quase sempre elas têm a mesma trajetória e sempre apontam para uma
-participação mais ativa e determinante das próprias comunidades lo-
-cais. Não há nenhuma grande “campanha” ou nenhum grande “programa” de
+participação mais ativa e determinante das próprias comunidades locais. Não há nenhuma grande “campanha” ou nenhum grande “programa” de
 dimensões muito amplas. Através do IDAC que, de volta, ele trouxe para
 o Brasil, de setores institucionais ou estudantis das universidades
 onde trabalha, de grupos autônomos de jovens educadores, Paulo
@@ -2421,8 +2395,7 @@ e conscientização*, de Júlio Barreiro, publicado pela VOZES.
 Há inúmeros artigos de Paulo Freire e sobre ele espalhados “no
 Brasil e no Mundo”. A melhor maneira de compreender as suas ideias é
 ir aos seus escritos pelo caminho dos problemas que a prática da
-educação coloca para o educador. Paulo Freire escreveu sempre em “es-
-tado de missão” (muitas vezes, “em estado de graça” também). Por
+educação coloca para o educador. Paulo Freire escreveu sempre em “estado de missão” (muitas vezes, “em estado de graça” também). Por
 isso os seus escritos fazem pleno sentido para quem chega a eles
 através das questões que o seu próprio trabalho colocou.
 
@@ -2431,8 +2404,7 @@ height="0.39375in"}
 
 # Sobre o autor
 
-Carlos Rodrigues Brandão nasceu no Rio de Janeiro em 14 de abril de
-1940. Desde 1963 trabalha com grupos e movimentos de educação pupular,
+Carlos Rodrigues Brandão nasceu no Rio de Janeiro em 14 de abril de 1940. Desde 1963 trabalha com grupos e movimentos de educação popular,
 prática que iniciou no Movimento de Educação de base e que hoje
 continua através do Centro de Estudos de Educação e Sociedade (CEEDES)
 e do Centro Ecumênico de Documentação e Informação (CEDI).
@@ -2446,6 +2418,5 @@ Na área de cultura popular, tem publicados: Cavalhadas de Pirenópolis;
 O Divino, o Santo e a Senhora: Peões, Pretos e Congos; A Folia de Reis
 Mossâmedes; Deus te Salve, Casa Santa e Plantar, Comer, Colher (um
 estudo sobre o campesinato goiano), e pela Brasiliense: Os Deuses do
-Povo, além de Sacerdotes de Viola, pela Vozes. Na área de educação pu-
-pular, A Questão Política da Educação Popular, O que é Educação e O
+Povo, além de Sacerdotes de Viola, pela Vozes. Na área de educação popular, A Questão Política da Educação Popular, O que é Educação e O
 que é Folclore, todos pela Brasiliense.
