@@ -60,67 +60,71 @@ futuro com a Educação Popular: um nome? Um mito? Um modo de fazer?
 Crispiniano Neto, um professor e repentista notável do lugar, escreveu
 o “Programa da Semana” em cordel e abriu cantoria desse jeito:
 
-De um a oito de maio 
+>De um a oito de maio 
 
-Mossoró tem alegria 
+>Mossoró tem alegria 
 
-De receber todo o povo
+>De receber todo o povo
 
-Que pensa em democracia, 
+>Que pensa em democracia, 
 
-Que é quando a terra se irmana 
+>Que é quando a terra se irmana 
 
-Pra promover a Semana
+>Pra promover a Semana
 
-De Arte e Filosofia.
+>De Arte e Filosofia.
 
-Porém a Filosofia
+>Porém a Filosofia
 
-Que aqui estamos falando 
+>Que aqui estamos falando 
 
-Não é daqueles que não
-têm: *por quê*, *pra quê* nem quando; 
+>Não é daqueles que não
 
-É uma coisa real,
+>têm: *por quê*, *pra quê* nem quando; 
 
-Que fura como punhal, 
+>É uma coisa real,
 
-Ferindo quem está ditando.
+>Que fura como punhal, 
 
-A nossa filosofia
+>Ferindo quem está ditando.
 
-Não tá suspensa no ar; 
+>A nossa filosofia
 
-Não é livro em prateleira 
+>Não tá suspensa no ar; 
 
-Nem frase pra declamar. 
+>Não é livro em prateleira 
 
-Filosofia pra gente
+>Nem frase pra declamar. 
 
-É um jeito consciente 
+>Filosofia pra gente
 
-Do povo se libertar.
+>É um jeito consciente 
+
+>Do povo se libertar.
 
 No meio dos oito dias da “Semana” o meu trabalho lá era o de fazer o
 tal pequeno curso sobre Paulo Freire. E no cordel do “Programa” se
 anunciava assim:
 
-Sábado 02/05 
-tarde: 14 h 
+>Sábado 02/05 
 
-às 17 h
+>tarde: 14h 
 
-Então, na parte da tarde 
+>às 17h
 
-Professor Carlos Brandão  
+>Então, na parte da tarde 
 
-No Sistema Paulo Freire
+>Professor Carlos Brandão  
 
-De Alfabetização
+>No Sistema Paulo Freire
 
-Vai dar um curso e mostrar Como alfabetizar
+>De Alfabetização
 
-Visando a libertação.
+>Vai dar um curso e mostrar 
+
+>Como alfabetizar
+
+>Visando a libertação.
 
 E o curso foi de um sábado até uma terça, com dias de trabalho da
 manhã à noite. Como havia muita gente na “Semana”, de estudantes dos
@@ -160,25 +164,24 @@ carne de sol com gerimum.
 
 No cordel do programa ficou escrito:
 
-Sexta-feira 
+>Sexta-feira 
 
-08/05 
+>08/05 
 
-8 h às 
+>8h 
 
-11 h 
+>às 11h 
 
-E como na sexta-feira
-ninguém tem mais paciência
-então pensamos em ter
-ter uma atração de potência 
-e resolvemos botar
+>E como na sexta-feira
+>ninguém tem mais paciência
+>então pensamos em ter
+>ter uma atração de potência 
+>e resolvemos botar
 
-Paulo Freire pra contar 
-sua vida e experiência.
+>Paulo Freire pra contar 
+>sua vida e experiência.
 
-Parte do que escrevo daqui para baixo são momentos desta *vida e
-experiência*. Em outras andanças pelo Brasil, sempre para cursos,
+Parte do que escrevo daqui para baixo são momentos desta *vida e experiência*. Em outras andanças pelo Brasil, sempre para cursos,
 encontros e conversas sobre Educação Popular, aos poucos percebi que
 mesmo quem não foi “dos anos 1960” leu quase tudo o que Paulo Freire
 escreveu. É difícil encontrar alguém que esteja ligado de algum modo
@@ -195,7 +198,7 @@ série sobre o assunto. Em alguns
 livros de Paulo Freire e de outros educadores, são poucas as páginas
 sobre o método e, não raro, elas estão escondidas em algum “anexo”.
 
-IMAGEM
+IMAGEM 1
 *Paulo Freire*
 
 Talvez por isso mesmo eu tenha resolvido escrever aqui o caso às
@@ -214,8 +217,9 @@ da educação popular de que ele sempre foi imaginado como um
 instrumento entre outros. Você se lembra, leitor, daquela letra de
 poema que se tem cantado muito por aí?
 
-Caminhante, não há caminho 
-Se faz caminho ao andar.
+>Caminhante, não há caminho 
+
+>Se faz caminho ao andar.
 
 Pois bem, as pessoas de quem se fala aqui sonharam um caminho e
 começaram a andar. O “método” foi só a botina que calçaram nos pés
@@ -242,8 +246,7 @@ criar uma ferramenta que ajudasse o homem a começar pelo começo; por
 um jeito mais
 humano de ensinar-aprender a ler e escrever. Uma das práticas
 sociais por onde começa esta história que continua a procurar, com as
-gentes de maio em Mossoró, respostas às suas tantas perguntas de *por
-quê*? e *pra quê*?
+gentes de maio em Mossoró, respostas às suas tantas perguntas de *por quê*? e *pra quê*?
 
 #Um dia, perto de angicos
 
@@ -267,16 +270,12 @@ próprio trabalho.
 Depois de haver sido testado em “círculos” na roça e na cidade, no
 Nordeste, o trabalho com o método foi levado por muitas mãos ao Rio
 de Janeiro, a São Paulo e a Brasília. Aquele era o tempo da criação
-dos *movimentos populares de cultura* (MCP), dos *centros de cultura
-popular do movimento estudantil* (CPC), do *Movimento de Educação de
-Base da Igreja Católica* (MEB), da campanha *De Pé no Chão também se
-Aprende a Ler*, da Prefeitura de Natal, entre tantos outros grupos,
+dos *movimentos populares de cultura* (MCP), dos *centros de cultura popular do movimento estudantil* (CPC), do *Movimento de Educação de Base da Igreja Católica* (MEB), da campanha *De Pé no Chão também se Aprende a Ler*, da Prefeitura de Natal, entre tantos outros grupos,
 lugares e equipes onde se misturavam educadores, estudantes,
 professores, profissionais de outras áreas que, por toda a parte,
-davam sentidos novos a velhas palavras: *educação popular, cultura
-popular*.
+davam sentidos novos a velhas palavras: *educação popular, cultura popular*.
 
-Os resultados obtidos — 300 trabalhadores alfabetizados em 45 dias
+>Os resultados obtidos — 300 trabalhadores alfabetizados em 45 dias
 — impressionaram profundamente a opinião pública. Decidiu-se aplicar
 o método em todo o território nacional, mas desta vez com o apoio do
 Governo Federal. E foi assim que, entre junho de 1963 e março de 1964,
@@ -348,8 +347,7 @@ e, se não pode ser nunca feita por um sujeito isolado (até a autoeducação é
 resultado do despejo de quem supõe que possui todo o saber, sobre
 aquele que, do outro lado, foi obrigado a pensar que não possui
 nenhum. “Não há educadores puros”, pensou Paulo Freire. “Nem
-educandos.” De um lado e do outro do trabalho em que se *ensina e
-aprende*, há sempre educadores-educandos e educandos-educadores. De
+educandos.” De um lado e do outro do trabalho em que se *ensina e aprende*, há sempre educadores-educandos e educandos-educadores. De
 lado a lado se ensina. De lado a lado se aprende.
 
 A cartilha é um saber abstrato, pré-fabricado e imposto. É uma
@@ -368,11 +366,11 @@ tempo e esqueceu o custo da coisa, imagine um operário chegando,
 depois de uma jornada macha de trabalho, na sala de aula e tendo que
 repetir no meio da noite:
 
-Eva viu a uva. 
+>Eva viu a uva. 
 
-A ave é do Ivo. 
+>A ave é do Ivo. 
 
-Ivo vai na roça.
+>Ivo vai na roça.
 
 Pior ainda, aqui e ali, quando fazem cartilhas e livros de leitura
 para adultos, os textos escolhidos para o “ensino das primeiras
@@ -384,11 +382,11 @@ escrita, vela o da vida. É quando, no livra dirigido às gentes do
 povo, aos operários, fala o senhor, o patrão. Um exemplo recolhido
 pelo próprio Paulo Freire.
 
-Pedro não sabia ler. Pedro estava envergonhado. Um dia Pedro foi à
+>Pedro não sabia ler. Pedro estava envergonhado. Um dia Pedro foi à
 escola e se inscreveu num curso noturno. O professor de Pedro era
 muito bom. Agora Pedro sabe ler. Veja o rosto de Pedro (essas lições
 em geral são ilustradas). Pedro está sorrindo. Ele é um homem feliz.
-Ele tem um bom trabalho. Todos teriam que seguir o seu exemplo — Paulo Freire, *Pedagogia do Oprimido*.
+Ele tem um bom trabalho. Todos teriam que seguir o seu exemplo — (*Pedagogia do Oprimido*).
 
 Esta é uma das razões pelas quais este é um método que se constrói a
 cada vez que ele é coletivamente usado dentro de um círculo de cultura
@@ -430,14 +428,14 @@ e compreender o mundo. Perguntas que emergem de uma vivência que começa a acon
 Sobre este primeiro momento de trabalho, Aurenice Cardoso escreveu o
 seguinte, há cerca de 20 anos:
 
-“O contacto inicial e direto que estabelecemos com a comunidade é
+>O contacto inicial e direto que estabelecemos com a comunidade é
 durante a pesquisa do universo vocabular
 — etapa realizada no campo e que é a primeira do Sistema Paulo Freire
-de Educação de Adultos.” Não é uma pesquisa de alto rigor
-científico, não vamos testar nenhuma hipótese. “Trata-se de uma
+de Educação de Adultos. Não é uma pesquisa de alto rigor
+científico, não vamos testar nenhuma hipótese. Trata-se de uma
 pesquisa simples que tem
 como objetivo imediato à obtenção dos vocábulos mais usados pela
-população a se alfabetizar” (*Conscientização e Alfabetização*).
+população a se alfabetizar — (*Conscientização e Alfabetização*).
 
 Das muitas conversas com o mundo da comunidade: pessoas, casais,
 famílias, pequenos grupos, equipes locais, todas as situações de vida
@@ -479,8 +477,7 @@ falas que, a seu modo, desvelam o mundo e contêm, para a pesquisa, os
 A partir do levantamento das “palavras” a pesquisa descobre as pistas
 de um mundo imediato, configurado pelo repertório dos símbolos através
 dos quais os educandos passam para as etapas seguintes do
-aprendizado coletivo e solidário de uma dupla leitura: a da *realidade
-social* que se vive e a da *palavra escrita* que a retraduz.
+aprendizado coletivo e solidário de uma dupla leitura: a da *realidade social* que se vive e a da *palavra escrita* que a retraduz.
 
 Ora, leitor, há uma ideia que será dita e repetida aqui algumas vezes.
 O método aponta regras *de* fazer, mas em
@@ -528,7 +525,8 @@ foram conhecidas, grupos locais de pesquisa foram organizados. Tem o
 escritas, gravadas, guardadas na memória. Frases como esta: “aqui o
 melhor mês é março, a chuva parou e o arroz a gente tá começando a
 colher”; ou como esta:
-a criançada por aqui aprende é com os mais velhos, vendo a gente na
+
+>a criançada por aqui aprende é com os mais velhos, vendo a gente na
 roça, na lavoura todo o dia. Os menorzinhos ajuda trazendo a comida
 lá da casa até aqui. Os maiorzinhos já pega na enxada e ajuda na
 limpa.
@@ -562,13 +560,13 @@ relações entre os homens. Portanto, as palavras precisam servir para
 as duas leituras e os seus critérios de escolha são três, dois deles
 usuais em outros métodos, o outro, novo e renovador:
 
-1º a riqueza fonêmica da palavra geradora; 
+>1º) a riqueza fonêmica da palavra geradora; 
 
-2º as dificuldades fonéticas da língua;
+>2º) as dificuldades fonéticas da língua;
 
-3º a densidade pragmática do sentido.
+>3º) a densidade pragmática do sentido.
 
-A melhor palavra geradora é aquela que reúne em si a maior
+>A melhor palavra geradora é aquela que reúne em si a maior
 porcentagem possível dos critérios *sintático* (possibilidade ou
 riqueza fonêmica, grau de dificuldade fonêmica complexa, de
 manipulabilidade dos conjuntos de sinais, as sílabas etc.),
@@ -577,7 +575,7 @@ o ser que designa, maior ou menor adequação entre palavra e ser
 designado etc.), *pragmático* (maior ou menor teor de conscientização
 que a palavra traz em potencial, ou conjunto de reações socioculturais
 que a palavra gera na pessoa ou grupo que
-a utiliza)” (*Fundamentação Teórica do Programa*).
+a utiliza)” — (*Fundamentação Teórica do Programa*).
 
 Emergindo todas através da pesquisa das falas cotidianas das pessoas
 do lugar, convertidas na primeira escrita
@@ -593,8 +591,7 @@ dificuldade crescente de leitura e escrita e da lógica de linguagem na
 explicação progressiva destas dificuldades.
 
 Mas as palavras devem também conter sentidos explícitos, diretos e é
-bom que eles estejam carregados de *carga afetiva* e de *memória
-crítica*. São boas as palavras que convivem com a fala comum da
+bom que eles estejam carregados de *carga afetiva* e de *memória crítica*. São boas as palavras que convivem com a fala comum da
 gente do lugar e que, mesmo sendo de uso geral na região, sejam
 sentidas por quem fala como “uma coisa daqui”: palavras que as pessoas
 usam no *toda a hora* da fala. Mas os seus sentidos devem apontar
@@ -607,11 +604,8 @@ As palavras geradoras não precisam ser muitas. De 16 a 23 é o
 bastante. Precisam, em conjunto, responder aos três critérios de
 escolha. No começo dos anos 1960,
 para uma comunidade em Cajueiro Seco, no Recife, a equipe escolheu as
-seguintes: *tijolo, voto, siri, palha, biscate, cinza, doença,
-chafariz, máquina, emprego, engenho, mangue, terra, enxada, classe.*
-Para uma colônia agrícola da cidade do Cabo, em Pernambuco: *tijolo,
-voto, roçado, abacaxi, cacimba, fome, feira, milho, maniva, planta,
-lombriga, engenho, guia, barracão, charque, cozinha, sal.*
+seguintes: *tijolo, voto, siri, palha, biscate, cinza, doença,chafariz,  máquina, emprego, engenho, mangue, terra, enxada, classe.*
+Para uma colônia agrícola da cidade do Cabo, em Pernambuco: *tijolo, voto, roçado, abacaxi, cacimba, fome, feira, milho, maniva, planta, lombriga, engenho, guia, barracão, charque, cozinha, sal.*
 
 Às vezes é bom que a prática desobedeça à regra. Houve começos de
 experiências no Brasil onde a pesquisa do universo vocabular foi feita
@@ -623,9 +617,7 @@ fossem também as mais comuns.
 
 Assim, as palavras geradoras escolhidas para uma campanha de
 alfabetização nos morros e favelas do Rio de Janeiro foram estas:
-*favela, chuva, arado, terreno, comida, batuque, poço, bicicleta,
-trabalho, salário, profissão, governo, mangue, engenho, enxada,
-tijolo, riqueza*.
+*favela, chuva, arado, terreno, comida, batuque, poço, bicicleta, trabalho, salário, profissão, governo, mangue, engenho, enxada, tijolo, riqueza*.
 
 Observe, leitor, que, no seu limite mais conciso, estas poucas
 palavras *codificam* o modo de vida das pessoas dos lugares onde a
@@ -633,8 +625,7 @@ palavras *codificam* o modo de vida das pessoas dos lugares onde a
 de descoberta, o do círculo de cultura, a cada palavra foi associado
 um núcleo de questões, ao
 mesmo tempo existenciais (ligadas à vida) e políticas (ligadas aos
-determinantes sociais das condições da vida). Este *núcleo de
-referência gerador* serve apenas como um roteiro de sugestão de
+determinantes sociais das condições da vida). Este *núcleo de referência gerador* serve apenas como um roteiro de sugestão de
 troca de ideias, de debates nos círculos. Assim, para a palavra
 “batuque” os “aspectos de discussão” foram: “cultura do povo,
 folclore, cultura erudita, alienação cultural”. Para “governo”: “plano
@@ -737,7 +728,7 @@ região; com os valores, símbolos, ideias. Reunidos para serem
 materiais de discussão em fases mais adiantadas do trabalho do
 círculo, estes são os seus *temas geradores*.
 
-Primeiramente estes temas devem ser distribuídos entre as várias
+>Primeiramente estes temas devem ser distribuídos entre as várias
 ciências do homem, sem que isto signifique que no programa devam ser
 considerados como departamentos estanques. Significa apenas que um
 tema possui uma visão mais específica, central, conforme a sua
@@ -746,7 +737,7 @@ DESENVOLVIMENTO, por exemplo, ainda que esteja situado no domínio da
 economia, não lhe é exclusivo. Receberá enfoques da sociologia, da
 antropologia, assim como da psicologia social, interessadas na questão
 da mudança cultural, da mudança de atitudes e nos valores que
-igualmente interessam a uma filosofia do desenvolvimento (*Contribución para el Proceso de Concientización en America Latina*).
+igualmente interessam a uma filosofia do desenvolvimento — (*Contribución para el Proceso de Concientización en America Latina*).
 
 *Temas geradores* foram pensados por Paulo Freire para serem usados na
 fase de pós-alfabetização. Falo deles aqui, descrevendo os momentos de
@@ -787,25 +778,25 @@ trabalho do círculo.
 O material “pra começo de conversa” do Método Paulo Freire está criado
 (mas nunca acabado, creia, leitor), quando:
 
-1º) em uma comunidade comprometida com um trabalho de educação popular
+>1º) em uma comunidade comprometida com um trabalho de educação popular
 existem um ou mais círculos formados ou em formação, com o seu grupo
 de educandos e o seu animador (um agente de educação “do programa”
 ou um educador já alfabetizado, da própria comunidade);
 
-2º) foi feito um primeiro momento do trabalho de pesquisa de
+>2º) foi feito um primeiro momento do trabalho de pesquisa de
 descoberta do *universo vocabular* e/ou (hoje em dia mais *e* do que
 *ou*) do *universo temático*;
 
-3º) todo o material da pesquisa feita dentro e fora da comunidade (mas
+>3º) todo o material da pesquisa feita dentro e fora da comunidade (mas
 sempre sobre ela e a partir dela) foi reunido, organizado, discutido, inclusive com a gente do lugar;
 
-4º) o instrumental do trabalho de alfabetização foi *codificado*,
+>4º) o instrumental do trabalho de alfabetização foi *codificado*,
 transformado em *símbolos de uso* no círculo de cultura: palavras
 geradoras, cartazes e fichas com as palavras, desenhos e fonemas,
 fotos, anotações com dados etc. (e, conforme o caso, muitos etc. que
 cada equipe saberá obter e criar);
 
-5º) a equipe de trabalho e, sobretudo, os animadores de círculos de
+>5º) a equipe de trabalho e, sobretudo, os animadores de círculos de
 cultura, estão não só familiarizados com o método e o seu material
 específico para trabalho *no lugar*, com a sua gente, mas também
 treinados sobre o método a ponto de sabê-la usar, ao mesmo tempo, com
@@ -874,21 +865,21 @@ atenção para o desenho, a gravura. Sugere que digam o
 que estão vendo: o que a figura mostra? Quais são as partes, os
 elementos dela? O que será que ela quer dizer? Com o que é que parece?
 
-IMAGEM
+IMAGEM 2
 
 Este é o desenho que foi usado nos primeiros círculos de cultura do
 Nordeste. A discussão dele pode tomar todo o tempo da primeira reunião
 do círculo. Pode continuar no outro dia. Paulo Freire escreveu assim
 sobre esta gravura:
 
-1ª situação — o homem *no* mundo e *com* o mundo. Natureza e cultura.
+>1ª situação — o homem *no* mundo e *com* o mundo. Natureza e cultura.
 
 Através do debate desta situação, em que se discute o homem como um
 ser de relações, se chega à distinção entre os dois mundos — o da
 natureza e o da cultura. Percebe-se a posição normal do homem como
 um ser no mundo e com o mundo.
 
-Como um criador e recriador que, através do trabalho, vai alterando
+>Como um criador e recriador que, através do trabalho, vai alterando
 a realidade. Com perguntas simples, tais como: quem fez o poço? por
 que o fez? como o fez? quando?, que se repetem com relação aos demais
 ‘elementos’ da situação, emergem dois conceitos básicos: o de
@@ -900,29 +891,29 @@ processo de transformação. Assim, fez a casa, sua roupa, seus
 instrumentos de trabalho. A partir daí, se discute com o grupo, em
 termos evidentemente simples, mas criticamente objetivos, as relações
 entre os homens, que não podem ser de dominação nem de transformação,
-como as anteriores, mas de sujeitos (*Educação como Prática da Liberdade*).
+como as anteriores, mas de sujeitos — (*Educação como Prática da Liberdade*).
 
 Nos primeiros tempos do método as outras situações eram as seguintes:
 
-2ª) o diálogo entre os homens mediatizado pela natureza;
+>2ª) o diálogo entre os homens mediatizado pela natureza;
 
-3ª) o caçador iletrado, o índio;
+>3ª) o caçador iletrado, o índio;
 
-4ª) o caçador letrado, a cultura letrada, diferenças de culturas;
+>4ª) o caçador letrado, a cultura letrada, diferenças de culturas;
 
-5ª) o caçador gato, cultura e natureza;
+>5ª) o caçador gato, cultura e natureza;
 
-6ª) o homem transforma a matéria da natureza através do seu
+>6ª) o homem transforma a matéria da natureza através do seu
 trabalho;
 
-7ª) um jarro, produto do trabalho do homem com a natureza, utilidade e
+>7ª) um jarro, produto do trabalho do homem com a natureza, utilidade e
 beleza, a arte;
 
-8ª) uma poesia, a cultura espiritual;
+>8ª) uma poesia, a cultura espiritual;
 
-9ª) padrões de comportamento dos homens e entre os homens;
+>9ª) padrões de comportamento dos homens e entre os homens;
 
-10ª) um círculo de cultura funcionando, síntese de todas as
+>10ª) um círculo de cultura funcionando, síntese de todas as
 discussões anteriores.
 
 Acho que é uma boa ideia transcrever também que Paulo Freire falou há
@@ -931,16 +922,16 @@ provocadora”. Ela é um exemplo de como se sugeria indicar o andamento
 das discussões e antecipa, leitor, as páginas em que descrevo o seu
 pensamento sobre o homem e a educação.
 
-10ª situação — círculo de cultura funcionando. Síntese das
+>10ª situação — círculo de cultura funcionando. Síntese das
 discussões anteriores.
 
-Esta situação apresenta um círculo de cultura funcionando. Ao
+>Esta situação apresenta um círculo de cultura funcionando. Ao
 vê-la, facilmente se identificam na representação. Debate-se a
 cultura como aquisição sistemática de conhecimentos e também a
 democratização da cultura, dentro do quadro geral da “democratização
 fundamental”, que caracteriza o processo brasileiro.
 
-A “democratização da cultura”, disse certa vez um desses anônimos
+>A “democratização da cultura”, disse certa vez um desses anônimos
 mestres analfabetos, “tem de partir do que somos e do que fazemos como
 povo. Não do que pensem e queiram alguns de nós”. Além desses debates a propósito da cultura e de sua democratização, analisava-se o
 funcionamento de um círculo de cultura, seu sentido dinâmico, a força
@@ -950,13 +941,13 @@ para iniciar, na terceira, a sua alfabetização,
 que é vista, agora, como uma chave para abrir a eles a comunicação
 escrita.
 
-IMAGENS
-*Exemplos de fichas de cultura (nos. *3 e 6).*
+IMAGEM 3
+*Exemplos de fichas de cultura (nos. 3 e 6).*
 
-IMAGEM
+IMAGEM 4
 *Situação existencial provocadora.*
 
-Só assim a alfabetização cobra sentido. E a consequência de uma
+>Só assim a alfabetização cobra sentido. E a consequência de uma
 reflexão que o homem começa a fazer sobre sua própria capacidade de
 refletir. Sobre sua posição no mundo. Sobre o mundo mesmo. Sobre seu
 trabalho. Sobre seu poder de transformar o mundo. Sobre o encontro
@@ -965,7 +956,7 @@ ser assim algo externo ao
 homem, para ser dele mesmo. Para sair de dentro de si, em relação com
 o mundo, como uma criação.
 
-Só assim nos parece válido o trabalho da alfabetização, em que a
+>Só assim nos parece válido o trabalho da alfabetização, em que a
 palavra seja compreendida pelo homem na sua justa significação: como
 uma força de transformação do mundo. Só assim a alfabetização tem
 sentido. Na medida em que o homem, embora analfabeto, descobrindo a
@@ -974,7 +965,7 @@ para a sua manipulação pelas falsas elites. Só assim a alfabetização
 tem sentido. Na medida em que, implicando em todo este esforço de reflexão do homem sobre si mesmo e sobre o mundo em que e com que está,
 o faz descobrir que o mundo é seu também, que o seu trabalho não é a
 pena que paga por ser homem, mas um modo de amar — e ajudar o
-mundo a ser melhor (*Educação como Prática da Liberdade*).
+mundo a ser melhor — (*Educação como Prática da Liberdade*).
 
 Estas são as finalidades das fichas de cultura, que sugerem os
 debates a partir das imagens das situações existenciais: levar o
@@ -1012,8 +1003,7 @@ outra maneira? Como poderia ser? Como deveria ser? Qual o sentido do
 que se fala, do que se discute a partir do que todos veem?
 
 Quando surgirem as palavras articuladoras do pensamento crítico:
-*homem, mundo, trabalho, natureza, cultura, diálogo, educação,
-direitos, justiça, liberdade, criação* e tantas outras, é sobre elas
+*homem, mundo, trabalho, natureza, cultura, diálogo, educação, direitos, justiça, liberdade, criação* e tantas outras, é sobre elas
 que o animador deve provocar um pensar coletivo mais demorado. Estas
 palavras poderiam ser chamadas de *articuladoras*. Elas mais adiante
 vão somar-se com as *geradoras*, as de alfabetização e lhes vão dar
@@ -1043,48 +1033,48 @@ o ajudasse a encaminhar os trabalhos de cada palavra, foi costume
 elaborar uma espécie de “plano de palavra” para cada uma. Assim, em
 1961 em Mossoró e Angicos, era este o encaminhamento da palavra geradora: *salário*.
 
-Palavra geradora: *salário*
+>Palavra geradora: *salário*
 
-**Ideias para discussão:**
+>**Ideias para discussão:**
 
--   a valorização do trabalho e a recompensa.
+>-   a valorização do trabalho e a recompensa.
 
--   finalidade do salário: manutenção do trabalhador e de sua família.
+>-   finalidade do salário: manutenção do trabalhador e de sua família.
 
--   o horário do trabalho segundo a lei.
+>-   o horário do trabalho segundo a lei.
 
--   o salário mínimo e o salário justo.
+>-   o salário mínimo e o salário justo.
 
--   repouso semanal — férias — décimo terceiro mês.
+>-   repouso semanal — férias — décimo terceiro mês.
 
-**Finalidades da conversa:**
+>**Finalidades da conversa:**
 
--   levar o grupo a discutir sobre a situação do salário dos camponeses.
+>-   levar o grupo a discutir sobre a situação do salário dos camponeses.
 
--   discutir o porquê dessa situação.
+>-   discutir o porquê dessa situação.
 
--   discutir com o pessoal sobre o valor e a recompensa do trabalho.
+>-   discutir com o pessoal sobre o valor e a recompensa do trabalho.
 
--   despertar no grupo o interesse de conhecer as leis do salário.
+>-   despertar no grupo o interesse de conhecer as leis do salário.
 
--   levar o grupo a descobrir o dever que cada um tem de exigir o
+>-   levar o grupo a descobrir o dever que cada um tem de exigir o
 salário justo.
 
-**Encaminhamento da conversa:**
+>**Encaminhamento da conversa:**
 
--   o que é que vocês estão vendo neste quadro?
+>-   o que é que vocês estão vendo neste quadro?
 
--   como é que está a situação do salário dos camponeses? por quê?
+>-   como é que está a situação do salário dos camponeses? por quê?
 
--   o que é o salário?
+>-   o que é o salário?
 
--   como deve ser o salário? por quê?
+>-   como deve ser o salário? por quê?
 
--   o que é que a gente sabe das leis sobre o salário?
+>-   o que é que a gente sabe das leis sobre o salário?
 
--   o que podemos fazer pra conseguir um salário justo?”
+>-   o que podemos fazer pra conseguir um salário justo?”
 
-(Método Paulo Freire — *Manual do Monitor* — documento mimeografado
+>(Método Paulo Freire — *Manual do Monitor* — documento mimeografado
 a álcool e quase apagado, para os círculos de cultura de Mossoró e
 Angicos em 1961 e 1962).
 
@@ -1102,14 +1092,14 @@ Movimento de Educação de Base, em Goiás, no ano de 1964 (que ano,
 heim, companheiro?). A primeira palavra foi *Benedito* e no primeiro
 cartaz ela aparece assim:
 
-IMAGEM
+IMAGEM 5
 
 Quando o grupo diz ou quando o animador percebe que é hora de falar na
 palavra, ele chama a atenção para ela, escrita. Ele aponta, caminha
 com os dedos pelo traçado do fio dela e pode falar alguma coisa
 assim:
 
-Tão vendo, pessoal? Olha, esse homem que a gente tava falando sobre
+>Tão vendo, pessoal? Olha, esse homem que a gente tava falando sobre
 ele e a vida dele, o nome dele tá escrito aqui embaixo. Assim, ó:
 *Benedito* (lê devagar, acompanhando a palavra com os dedos ao longo
 da palavra, sem separar artificialmente as suas sílabas). Olha
@@ -1148,23 +1138,22 @@ outro cartaz com o nome desdobrado em seus fonemas — pedaços:
 
 **to te ta tu ti**
 
-Olha aí, gente. Uma casa não tem as suas partes: quarto, cozinha,
+>Olha aí, gente. Uma casa não tem as suas partes: quarto, cozinha,
 sala, varanda? Tudo no mundo não tem os seus pedaços? Pois uma palavra
 também. Tão vendo? *Benedito* tem esses pedaços aí, assim:
-Be-ne-di-to, Be-ne-di-to, Be-nedi-to.
+Be-ne-di-to, Be-ne-di-to, Be-ne-di-to.
 
 O monitor lê, acompanha com as mãos as sílabas, os fonemas, na medida
 em que os pronuncia. Repete. Depois mostra no todo o que é, abaixo,
 desdobramento do conjunto de cada fonema.
 
-Presta atenção agora. Que a gente tem aqui, Ó, aqui assim? Cada
+>Presta atenção agora. Que a gente tem aqui, Ó, aqui assim? Cada
 pedaço do nome do Benedito tem a sua família. Aqui tá escrito o *Be*
 do *Benedito*, aqui o *ne*, o *di*, o *to.* Agora, desse jeito assim
 tá a família do *Be* completinha: *be, bi, ba, bu, bo*. De novo, olha
-gente: *be, bi, ba, bu, bo*. Vamos lá, todo mundo: *be, bi, ba, bo,
-bu.* Joca Ramiro, você agora, dá pra ser? *be, bi, ba, bo, bu*. Agora
+gente: *be, bi, ba, bu, bo*. Vamos lá, todo mundo: *be, bi, ba, bo, bu.* Joca Ramiro, você agora, dá pra ser? *be, bi, ba, bo, bu*. Agora
 aqui tem a família do *ne: ne, ni, na, nu, no*. Quem é que lê comigo?
-Benedito, você que tem o mesmo nome, vamos lá: n*e, ni, na, nu, no.*
+Benedito, você que tem o mesmo nome, vamos lá: *ne, ni, na, nu, no.*
 
 Todos veem, leem e repetem com o monitor, sozinhos, em coro. A mão
 acompanha agora os pedaços, saltando de um para o outro. Se no meio
@@ -1206,7 +1195,7 @@ quando o monitor sente que cada ordem está bem reconhecida. A mão não
 acompanha, como antes, o que a leitura fala da ficha de descoberta.
 Quando sente que ficou maduro o trabalho, o animador pode dizer:
 
-Olha, gente, do mesmo jeitinho como se pode pegar uma palavra como o
+>Olha, gente, do mesmo jeitinho como se pode pegar uma palavra como o
 nome *Benedito* e separar as partes dele: *Be, ne, di, to* e de cada
 uma fazer cada família: *ba, be, bi, bo, bu*, do mesmo jeitinho a
 gente pode reunir de novo os pedaços e formar a palavra do nome de
@@ -1222,11 +1211,10 @@ isso acontece apenas nas primeiras palavras — ele mesmo pode criar,
 formar novas palavras simples, acompanhando a fala com o gesto de
 apontar em movimento cada pedaço e todos os que formam a palavra.
 
-IMAGEM
+IMAGEM 6
 
-Ninguém? Tá bom. No começo pode ser meio difícil mesmo. Então eu
-começo, olha lá: *ba, na, na — banana*. De novo, assim, ó: *ba, na, na
-— banana*. Agora, vejam: *de, do — dedo.* Tão vendo? *de, do — dedo*
+>Ninguém? Tá bom. No começo pode ser meio difícil mesmo. Então eu
+começo, olha lá: *ba, na, na — banana*. De novo, assim, ó: *ba, na, na — banana*. Agora, vejam: *de, do — dedo.* Tão vendo? *de, do — dedo*
 (e o dedo aponta o dedo que a fala pronuncia). Agora, aqui: *bo, ti,
 na — botina*. Tem vez que um pedaço já é palavra: *nu*.
 
@@ -1296,15 +1284,13 @@ somarem com os de uma nova palavra. Em certos momentos duas palavras
 podem aparecer lado a lado em seus cartazes de descoberta, o que, por
 certo, multiplica o poder de criação do grupo.
 
-IMAGEM
+IMAGEM 7
 
 Palavras mais difíceis podem ser apresentadas mais tarde. Em Goiás
 primeiro vinham: *Benedito, Jovelina, mata, fogo, sapato, casa*. Todas
 elas são palavras simples, com os fonemas em ordem direta — consoante + vogal — e sem dificuldades maiores de construção. Depois vinham:
-*enxada, chuva* (x e ch), *roçado* (o terrível ç), *bicicleta,
-trabalho* (tr e lh), *bezerro* (z, s, ss, ç — que língua desgraçada!)
-*safra* (fr), *máquina* (qui, que), *armazém, assinatura, produção,
-farinha* (nh), *estrada* (tr).
+*enxada, chuva* (x e ch), *roçado* (o terrível ç), *bicicleta, trabalho* (tr e lh), *bezerro* (z, s, ss, ç — que língua desgraçada!)
+*safra* (fr), *máquina* (qui, que), *armazém, assinatura, produção, farinha* (nh), *estrada* (tr).
 
 As dificuldades são apresentadas, discutidas. Sobre elas o monitor
 deverá trabalhar mais tempo deixando, no entanto, que as dificuldades
@@ -1314,6 +1300,7 @@ sua conta. Exemplo, para a palavra geradora casa a ficha de descoberta foi escri
 **ca _ _   _ _ co cu**
 
 **sa se si so su**
+
 e a questão de *ce, ci, que, qui* foi empurrada mais pra frente,
 quando o grupo teve que encarar: *máquina*.
 
@@ -1326,19 +1313,19 @@ bastante para fazê-lo com todos.
 Creia, leitor, que com os fonemas de *Benedito* e *Jovelina*
 dá para formar:
 
-*Benedito vive Jovelina vive*
+>*Benedito vive Jovelina vive*
 
-*Benedito lida o dia todo*
+>*Benedito lida o dia todo*
 
-*Jovelina ajuda Benedito na labuta.*
+>*Jovelina ajuda Benedito na labuta.*
 
 Um pouco mais à frente dá pra fazer, entre outras:
 
-*o sapato de Jovelina acabou. Ela lida na casa de sapé.*
+>*o sapato de Jovelina acabou. Ela lida na casa de sapé.*
 
-*Benedito capina.*
+>*Benedito capina.*
 
-*Ele usa a enxada na capina.*
+>*Ele usa a enxada na capina.*
 
 Por que é que você não tenta algumas, leitor? Misture os fonemas das
 palavras que listei acima e faça a coisa. Fazendo, sentindo, dá pra
@@ -1356,7 +1343,7 @@ jornal do grupo.
 Com os fonemas das palavras geradoras do “Paulo Freire de Goiás”, deu
 para escrever:
 
-IMAGEM
+IMAGEM 8
 
 # Ajustar, inovar, criar
 
@@ -1391,7 +1378,7 @@ duração. E quando no pequeno patrimônio de Santa Fé, 16 anos depois,
 algumas pessoas retomaram o “Paulo Freire do MEB” para trabalhar com
 uma turma de jovens e adultos lavradores, descobriram que o grupo
 arrumou assunto para discutir *Benedito* durante 5 reuniões e, no 4º
-mês, o grupo estava ainda na 8a palavra geradora.
+mês, o grupo estava ainda na 8ª palavra geradora.
 
 [^footnote3]: Refere-se aos anos 1960.
 
@@ -1415,50 +1402,54 @@ Veja, leitor, como alguns anos depois, lembrando o começo do mesmo
 trabalho, agora feito no Rio de Janeiro, Paulo Freire sintetizava os
 passos:
 
-“*Palavras geradoras*
+>*Palavras geradoras*
 
-1\. FAVELA — necessidades fundamentais:
-a)  habitação
-b)  alimentação
-c)  vestuário
-d)  saúde
-e)  educação
+>1\. FAVELA — necessidades fundamentais:
 
-...Analisada a situação existencial que representa em fotografia
+>a)  habitação
+
+>b)  alimentação
+
+>c)  vestuário
+
+>d)  saúde
+
+>e)  educação
+
+>...Analisada a situação existencial que representa em fotografia
 aspecto de uma favela e em que se debate o problema da habitação, da
 alimentação, do vestuário, da saúde, da educação, numa favela e,
 mais ainda, em que se descobre a *favela* como situação problemática,
 se passa à visualização da *palavra*, com a sua vinculação semântica.
 Em seguida: um *slide* apenas com a palavra
 
-FAVELA
+>FAVELA
 
-Logo depois: outro, com a palavra separada em suas sílabas:
+>Logo depois: outro, com a palavra separada em suas sílabas:
 
-FA – VE – LA
+>FA – VE – LA
 
-Após; a família fonêmica:
+>Após; a família fonêmica:
 
-FA – FE – FI – FO – FU
+>FA – FE – FI – FO – FU
 
-Segue-se
+>Segue-se
 
-VA – VE – VI – VO – VU
+>VA – VE – VI – VO – VU
 
-Em outro *slide*:
+>Em outro *slide*:
 
-LA – LE – LI – LO – LU
+>LA – LE – LI – LO – LU
 
-Agora , as três famílias (Ficha da Descoberta)
+>Agora , as três famílias (Ficha da Descoberta)
 
-FA – FE – FI – FO – FU
+>FA – FE – FI – FO – FU
 
-VA – VE – VI – VO – VU 
+>VA – VE – VI – VO – VU 
 
-LA – LE – LI – LO – LU
+>LA – LE – LI – LO – LU
 
-
-O grupo começa a criar então palavras com as combinações à sua
+>O grupo começa a criar então palavras com as combinações à sua
 disposição” (*Educação como Prática da Liberdade*).
 
 ## O trabalho no interior de Goiás, hoje
@@ -1507,8 +1498,6 @@ o trabalho de alfabetização da primeira turma. Então alguém lembrou do
 emoção), num canto de prateleira do Centro de Treinamento da Diocese
 de Goiás, Livre da poeira do tempo, ele emergiu para o trabalho do
 grupo.
-
- 
 As palavras geradoras, 16 anos depois, pareciam haver saído da própria
 comunidade. Antes elas foram discutidas com algumas pessoas do lugar,
 para que juntos resolvessem se podiam ser deles também.
@@ -1546,51 +1535,167 @@ viola de um lavrador de perto?
 [^footnote5]: Ver *Canto dos Lavradores de Goiás*, folheto e fita cassete
 publicados pelo Centro de Reflexão e Documentação, de Goiânia.
 
-Os patrão que tem fazenda 
-O pobre do lavrador Pros pião já tem
-falado: Já fica bem apertado Vou arranjá um vaqueiro Não tem roça pra
-plantá Não quero mais agregado Já fica encabulado
+>Os patrão que tem fazenda 
 
-Vou deixá de tocar roça Vem mudando lá da roça Os meus plano tá mudado
-Pra cidade e povoado Vou fazer esta coleita Acaba tudo o que tem
-Porque sou financiado Fica bem desequilibrado Lavoura não dá mais nada
-Seu dinheiro já acabou Eu já tá sacrificado Começa comprá fiado Minhas
-máquinas é tudo cara Serviço ele não acha Adubo é um preço danado Não
-pode ficá parado Na lavoura eu ponho capim O nome dele acaba
+>Pros pião já tem falado: 
 
-Vou forma pasto pro gado!’ Ele fica desmoralizado.
+>Vou arranjá um vaqueiro 
 
-Imagina a sua vida O cabroco adoece Deste jeito aqui não dá Não tem
-jeito de tratá Lá em casa não tem nada Panha folha e raiz Não tem
-jeito de comprá Faz todo o tipo de chá
+>Não quero mais agregado 
 
-Vai beber uma pinguinha Assim mesmo sem dinheiro Pra poder se disfarçá
-Procura o hospital
+>Vou deixá de tocar roça 
 
-Fica tonto o dia inteiro Ele não vai atendido Cai aqui, cai acolá
-Porque não pode pagá Chega em casa embriagado Procura o seu direito
+>Os meus plano tá mudado
 
-Com a família vai brigá Através do FUNRURAL Não tem fogo, falta lenha
-Sai de lá só com a receita Nada tem pra alimentá Remédio não tem pra
-dá, A situação obriga Só se ferver a receita
+>Vou fazer esta coleita
 
-Ele resolve a roubá. E dá pro doente tomá.
+>Porque sou financiado 
 
-Falta terra, falta tudo Tem fazenda e fazenda Falta a alimentação Que
-é grande perfeitamente
+>Lavoura não dá mais nada
 
-Fais o cabocro ficá Sobe serra, desce serra
+>Eu já tá sacrificado
 
-Na triste situação Salta muita água corrente. O povo doente e fraco
-Sem lavoura e sem ninguém Prejudica a nação O dono mora ausente
+>Minhas máquinas é tudo cara
 
-Faz o homem cachaceiro Lá só tem um caçambeiro Fais outro virá ladrão
-Tira onda de valente
+>Adubo é um preço danado
 
-Fais mulher mudá de vida Isso é uma grande batalha Pra poder ganhá o
-pão Que está na nossa frente: Traz a fome e a miséria Tem muita gente
-sem terra Perigo a humanidade E tem muita terra sem gente.” Dá uma
-revolução.
+>Na lavoura eu ponho capim
+
+>Vou formá pasto pro gado!
+
+>O pobre do lavrador 
+
+>Já fica bem apertado 
+
+>Não tem roça pra plantá 
+
+>Já fica encabulado
+
+>Vem mudando lá da roça
+
+>Pra cidade e povoado  
+
+>Acaba tudo o que tem
+
+>Fica bem desequilibrado 
+
+>Seu dinheiro já acabou  
+
+>Começa comprá fiado  
+
+>Serviço ele não acha  
+
+>Não pode ficá parado  
+
+>O nome dele acaba
+
+>Ele fica desmoralizado.
+
+>Imagina a sua vida 
+
+>Deste jeito aqui não dá
+
+>Lá em casa não tem nada
+
+>Não tem jeito de comprá
+
+>Vai beber uma pinguinha
+
+>Pra poder se disfarçá
+
+>Fica tonto o dia inteiro
+
+>Cai aqui, cai acolá
+
+>Chega em casa embriagado
+
+>Com a família vai brigá
+
+>Não tem fogo, falta lenha
+
+>Nada tem pra alimentá
+
+>A situação obriga
+
+>Ele resolve a roubá.
+
+>O cabroco adoece 
+
+>Não tem jeito de tratá 
+
+>Panha folha e raiz 
+
+>Faz todo o tipo de chá
+
+>Assim mesmo sem dinheiro 
+
+>Procura o hospital
+
+>Ele não vai atendido 
+
+>Porque não pode pagá 
+
+>Procura o seu direito
+
+>Através do FUNRURAL 
+
+>Sai de lá só com a receita 
+
+>Remédio não tem pra dá, 
+
+>Só se ferver a receita
+
+>E dá pro doente tomá.
+
+>Falta terra, falta tudo 
+
+>Falta a alimentação 
+
+>Fais o cabocro ficá 
+
+>Na triste situação
+
+>O povo doente e fraco
+
+>Prejudica a nação
+
+>Faz o homem cachaceiro 
+
+>Fais outro virá ladrão
+
+>Fais mulher mudá de vida 
+
+>Pra poder ganhá o pão 
+
+>Traz a fome e a miséria 
+
+>Perigo a humanidade 
+
+>Dá uma revolução.
+
+>Tem fazenda e fazenda
+
+>Que é grande perfeitamente
+
+>Sobe serra, desce serra
+
+>Salta muita água corrente.
+
+>Sem lavoura e sem ninguém
+
+>O dono mora ausente
+
+>Lá só tem um caçambeiro
+
+>Tira onda de valente
+
+>Isso é uma grande batalha
+
+>Que está na nossa frente
+
+>Tem muita gente sem terra
+
+>E tem muita terra sem gente.
 
 Tudo o que é da vida e da cultura da comunidade, da região, é trazido
 para dentro do círculo. Ali se canta e se verseja. Ali se fazem
@@ -1612,11 +1717,7 @@ adultos na “vila de Santa Fé”.
 Por ocasião da escolha da lista sêxtupla de candidatos à reitoria da
 Universidade Federal de São Carlos (São Paulo), descobriu-se que 40
 funcionários não eram ainda alfabetizados. Um grupo de professores e
-alunos da Universidade reuniu-se, dentro de um *seminário aberto de
-educação*, para pensar a questão. Daí surgiu o *Projeto de
-Alfabetização de Funcionários da*
-
-*UFSC*. Durante algum tempo o grupo se reuniu para aprofundar a
+alunos da Universidade reuniu-se, dentro de um *seminário aberto de educação*, para pensar a questão. Daí surgiu o *Projeto de Alfabetização de Funcionários da UFSC*. Durante algum tempo o grupo se reuniu para aprofundar a
 proposta de seu trabalho pedagógico. Durante cerca de 3 meses foi
 feito um programa de preparação de alfabetizadores — professores e
 alunos. A formação da equipe não foi pensada em momento algum como uma
@@ -1625,13 +1726,13 @@ próprio sentido do trabalho a ser desenvolvido e sobre os princípios
 que deveriam nortear a prática pedagógica junto aos
 funcionários-educandos.
 
-“O ser alfabetizador consciente e consequente, especialista ‘mais
-político’, está sendo viabilizado ao longo da própria prática
+>O ser alfabetizador consciente e consequente, especialista “mais
+político”, está sendo viabilizado ao longo da própria prática
 pedagógica e dos estudos sistemáticos paralelos, onde se discute
 criticamente esta prática no sentido de torná-la cada vez mais
 adequada às condições concretas e viáveis do contexto educacional,
 de modo específico, e do contexto sócio-político-econômico
-brasileiro, de modo geral” (*Boletim da ADUFSCar*, maio 1981).
+brasileiro, de modo geral (*Boletim da ADUFSCar*, maio 1981).
 
 Antes de se formarem os grupos de alfabetização foram feitos contatos
 entre educadores e educandos, de modo a se reconhecer o universo
@@ -1684,19 +1785,19 @@ agentes de educação e agentes da comunidade enfrenta o desafio de
 “pensar de novo” e de construir o seu modo de trabalhar *o* e *com* o
 método.
 
-![](media/image3.png){width="0.8965288713910761in"
-height="0.37385389326334206in"}
-
 # Do método ao sistema, do sistema ao sonho
 
 ## Ontem: o sistema
 
 Faz muitos anos, em outro pequeno estudo sobre Paulo Freire, escrevi
-algumas ideias que quero reanimar aqui. “O método de alfabetização de
+algumas ideias que quero reanimar aqui. 
+
+>O método de alfabetização de
 adultos do professor Paulo Freire não representa mais do que a fase inicial de um
 longo processo dentro de um Sistema de Educação. Este sistema foi
 elaborado levando em conta as seguintes etapas:
-a)  o método de alfabetização de adultos como processo acelerador da
+
+>a)  o método de alfabetização de adultos como processo acelerador da
 aprendizagem da leitura e da escrita, a nível elementar. Com a
 introdução da técnica de trabalho em grupo proporciona-se um alto
 grau de atividade por parte de cada membro do grupo, assim como uma
@@ -1705,7 +1806,8 @@ básica no processo de conscientização dos adultos participantes. O
 método foi elaborado e testado por uma equipe do SEC da Universidade
 Federal de Pernambuco e, depois, programado para aplicação em nível
 estadual e nacional.
-a)  um processo sistematizado de educação correspondente ao nível
+
+>b)  um processo sistematizado de educação correspondente ao nível
 primário, com o qual se obtém a funcionalidade na leitura e na
 escrita; um nível mais profundo no que respeita à conscientização e
 uma ampliação do campo de estudos com a introdução de outros elementos necessários à educação de adultos.
@@ -1721,7 +1823,8 @@ ligados ao trabalho (camponês ou operário), arte popular e folclórica;
 b) obras importantes da literatura brasileira; c) material escrito
 pelos alunos de vários círculos de cultura, como poesia, prosa,
 crítica etc.;
-a)  uma etapa mais avançada de educação, que deve ser oferecida a todo o
+
+>c)  uma etapa mais avançada de educação, que deve ser oferecida a todo o
 povo: uma abertura a todos os canais
 de comunicação possíveis à sua circunstância; ao acesso à cultura em
 todos os seus níveis e nas suas três dimensões básicas: emergência,
@@ -1736,7 +1839,7 @@ assumiriam a tarefa de oferecer serviços culturais em vários níveis:
 popular, secundário, pré-universitário e universitário, através do
 que os adultos teriam a oportunidade de realizar não um curso de
 emergência, mas um processo contínuo e tão completo quanto fosse
-possível de Educação Fundamental” (*El Metodo Paulo Freire para la Alfabetización de Adultos*).
+possível de Educação Fundamental (*El Metodo Paulo Freire para la Alfabetización de Adultos*).
 
 Na cabeça dos seus primeiros idealizadores, o *método de alfabetização
 de adultos* era a menor parte de um *sistema de educação*, do mesmo
@@ -1798,7 +1901,7 @@ leitor, como uma proposta de educação do povo afinal aparece querendo
 falar em seu nome, a partir dele, do seu lugar na sociedade e na
 história.
 
-“A tarefa a que nos entregamos, a de possibilitar que um grande número
+>A tarefa a que nos entregamos, a de possibilitar que um grande número
 de nossos camaradas, sobretudo nos campos, mas não somente neles:
 leiam e escrevam, o que estavam proibidos de fazer no regime
 colonial, é uma tarefa política. A própria decisão de fazer a
@@ -1808,10 +1911,10 @@ astutamente, no sentido de nos convencer de que a alfabetização é um
 problema técnico e pedagógico, não devendo, por isso, ser ‘misturada
 com a política’.
 
-Na verdade, não há educação e por isso alfabetização de adultos
+>Na verdade, não há educação e por isso alfabetização de adultos
 neutra. Toda educação tem em si, uma intenção política...
 
-É em razão disto que nós, enquanto educadoreseducandos do Povo,
+>É em razão disto que nós, enquanto educadores-educandos do Povo,
 devemos estar cada vez mais claros com relação à nossa opção
 política e vigilantes quanto à coerência entre a opção que proclamamos
 e a prática que realizamos. Claros no que diz respeito ao em favor de
@@ -1821,7 +1924,7 @@ nossa prática e nela aprendendo cada vez melhor como trabalhar. É a
 militância correta que nos vai ensinando
 também que só na unidade, na disciplina e no trabalho com o Povo nos
 tornamos educadores coerentes com a opção revolucionária que
-proclamamos” (“Quatro cartas aos animadores de círculos de cultura
+proclamamos — (“Quatro cartas aos animadores de círculos de cultura
 de São Tomé e Príncipe” — *A Questão Política da Educação Popular*).
 
 A educação que Paulo Freire vislumbra não é apenas politicamente
@@ -1850,9 +1953,7 @@ terminou com a conquista popular do poder político. Uma luta de que a
 própria Campanha Nacional de Alfabetização foi considerada como uma das
 etapas muito importantes. Uma vez mais Paulo Freire foi chamado a
 colaborar e, pouco depois, outro brasileiro, o professor Hugo Assmann,
-coordenou a elaboração de um livro-documento:
-
-*Nicarágua triunfa na alfabetização*.
+coordenou a elaboração de um livro-documento: *Nicarágua triunfa na alfabetização*.
 
 ## Hoje: um instrumento a serviço dos movimentos populares
 
@@ -1932,8 +2033,7 @@ dentro e de fora das universidades, as que aos poucos aprendem a
 reencontrar os seus recursos e as suas práticas de mobilização comunitária, de resistência e luta popular. Na verdade são as próprias
 classes populares que reinventam a dimensão de seu trabalho político.
 
-![](media/image11.png){width="3.455615704286964in"
-height="4.711353893263342in"}
+IMAGEM 9
 
 *Lavradores aprendem a usar a palavra escrita.*
 
@@ -1951,7 +2051,7 @@ Apoiar, como educador-militante, com a sua contribuição própria,
 complementar, os *movimentos* surgidos por toda a parte e que, em
 conjunto, definem-se da seguinte maneira, por exemplo:
 
-“Por movimento popular entendemos todas as formas de mobilização e
+>Por movimento popular entendemos todas as formas de mobilização e
 organização de pessoas das classes populares diretamente vinculadas ao
 processo produtivo, tanto na cidade quanto no campo. São movimentos
 populares as associações de bairros da periferia, os clubes de mães,
@@ -1962,14 +2062,14 @@ integrante do movimento popular o movimento sindical* que, pela sua
 própria natureza, possui um caráter de classe definido pelas
 categorias profissionais que o integram.
 
-“Nos últimos anos o movimento sindical tem encontrado nos bairros,
+>Nos últimos anos o movimento sindical tem encontrado nos bairros,
 animados pelos movimentos populares, um campo de apoio e de trabalho
 decisivo à sua organização e lutas. Ao mesmo tempo, a repressão e o
 controle direto nos ambientes de trabalho fazem com que o bairro seja
 um local de mobilização do próprio movimento sindical. Nesta
 inter-relação, o movimento popular adquire sempre mais um *caráter de
 classe*, pois assume como suas as lutas dos trabalhadores. Foi o que
-se viu recentemente na greve do ABC paulista.” (Doc. de São Bernardo).
+se viu recentemente na greve do ABC paulista — (Doc. de São Bernardo).
 
 Ora, duas ideias que se completam são importantes aqui. Primeira: os
 movimentos populares são eles próprios lugares de educação política do
@@ -1998,13 +2098,13 @@ poderiam somar-se a estes.
 Em um documento recente sobre a alternativa de um partido de
 trabalhadores está escrito:
 
-“Faz-se urgente desenvolver, junto aos movimentos populares, um
+>Faz-se urgente desenvolver, junto aos movimentos populares, um
 intensivo trabalho de educação política que desperte o operário, o
 trabalhador rural, a dona de casa e demais pessoas do povo, para o
 direito inalienável à sua condição de cidadão que é o de ativa
 participação na vida política do país, inclusive na vida partidária.
 
-“Cabe à educação política criar consciência de que este direito é
+>Cabe à educação política criar consciência de que este direito é
 exercido dentro de um processo de engajamento social que, sem ser
 excludente, passa por diferentes etapas, desde a mais simples luta
 pela água no bairro ou pela defesa da posse da terra até à elaboração
@@ -2012,10 +2112,10 @@ de um projeto político alternativo. A atividade partidária não deve
 ser exclusiva e jamais desvinculada do trabalho de base e da inserção
 do militante nos movimentos populares.
 
-“Através da educação política, isenta de qualquer proselitismo e de
+>Através da educação política, isenta de qualquer proselitismo e de
 discussões centradas em siglas, o militante encontrará os critérios
 que lhe permitam equilibrar a atuação no movimento popular com a
-atuação nas esferas do partido” (Doc. de São Bernardo).
+atuação nas esferas do partido — (Doc. de São Bernardo).
 
 Ora, esta *educação política* de que um partido pode ser o *educador*
 e que prolonga a formação obtida em algum outro movimento popular,
@@ -2143,8 +2243,6 @@ existir que, primeiro, ela precisa ser a educação, da construção
 deste tempo vindouro, que é o horizonte da esperança do educador
 popular.
 
-![](media/image3.png){width="0.8965430883639545in"
-height="0.37385389326334206in"}
 
 # Contra o quê? Em nome do quê?
 
@@ -2323,17 +2421,17 @@ trabalho político de luta pela sua superação.
 
 # Conclusão
 
-“Peço licença para terminar soletrando a canção de rebeldia que existe
-nos fonemas da alegria:
-canção de amor geral que eu vi crescer nos olhos do homem que aprendeu
-a ler”
+>Peço licença para terminar 
 
-(Canção para os fonemas da alegria)
+>soletrando a canção de rebeldia 
 
-(Thiago de Mello)
+>que existe nos fonemas da alegria:
 
-![](media/image12.png){width="0.8494728783902012in"
-height="0.39375in"}
+>canção de amor geral que eu vi crescer
+
+>nos olhos do homem que aprendeu a ler
+
+("Canção para os fonemas da alegria", Thiago de Mello)
 
 # Indicações para leitura
 
@@ -2400,9 +2498,6 @@ educação coloca para o educador. Paulo Freire escreveu sempre em “estado de 
 isso os seus escritos fazem pleno sentido para quem chega a eles
 através das questões que o seu próprio trabalho colocou.
 
-![](media/image12.png){width="0.8494838145231846in"
-height="0.39375in"}
-
 # Sobre o autor
 
 Carlos Rodrigues Brandão nasceu no Rio de Janeiro em 14 de abril de 1940. Desde 1963 trabalha com grupos e movimentos de educação popular,
@@ -2415,9 +2510,9 @@ Universidade de Campinas (UNICAMP). Lecionou na Faculdade de Educação
 da Universidade de Brasília, da Universidade Federal de Goiás e da
 Universidade Católica de Goiás.
 
-Na área de cultura popular, tem publicados: Cavalhadas de Pirenópolis;
-O Divino, o Santo e a Senhora: Peões, Pretos e Congos; A Folia de Reis
-Mossâmedes; Deus te Salve, Casa Santa e Plantar, Comer, Colher (um
-estudo sobre o campesinato goiano), e pela Brasiliense: Os Deuses do
-Povo, além de Sacerdotes de Viola, pela Vozes. Na área de educação popular, A Questão Política da Educação Popular, O que é Educação e O
-que é Folclore, todos pela Brasiliense.
+Na área de cultura popular, tem publicados: *Cavalhadas de Pirenópolis*;
+*O Divino, o Santo e a Senhora:* Peões, Pretos e Congos; *A Folia de Reis
+Mossâmedes*; *Deus te Salve, Casa Santa* e *Plantar, Comer, Colher* (um
+estudo sobre o campesinato goiano); e pela Brasiliense: *Os Deuses do
+Povo; além de *Sacerdotes de Viola*, pela Vozes. Na área de educação popular, *A Questão Política da Educação Popular*, *O que é Educação* e *O
+que é Folclore*, todos pela Brasiliense.
